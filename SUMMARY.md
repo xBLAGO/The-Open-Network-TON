@@ -1,3 +1,13 @@
 # Table of contents
 
-* [The-Open-Network-TON](README.md)
+* [🌄 Welcome!](README.md)
+
+## Review
+
+* [🌈 Possibilities](review/possibilities.md)
+* [🌱 Infrastructure](review/infrastructure.md)
+
+## Instructions
+
+* [🤖 Telegram bot](instructions/telegram-bot.md)
+* [💻 Web application](instructions/web-application.md)
